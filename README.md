@@ -41,3 +41,7 @@ python main.py
 ```
 
 + Its running you can use it now!!
+
+
+# Screenshots
+<img width="959" alt="Screenshot 2023-04-27 171302" src="https://user-images.githubusercontent.com/131694386/234852025-6aeefdf3-3f28-4479-b2dd-827abd0d806d.png">
